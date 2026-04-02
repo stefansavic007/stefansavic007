@@ -16,7 +16,7 @@
 ## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,cs,dotnet,java,python,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,spring,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,svg,unity,vercel,heroku,aws,rust,solidity,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=html,js,cs,dotnet,java,python,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,spring,django,flask,laravel,wordpress,bootstrap,tailwind,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,androidstudio,git,github,linux,svg,vercel,heroku,aws,docker,kubernetes" />
   </a>
 </p>
 <br><br>
