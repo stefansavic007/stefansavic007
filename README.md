@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=1000&lines=I+am+a+Software+Engineer!;Lots+of+Experience+in+Full Stack Development." alt="Typing SVG" /></a>
 </div>
 
@@ -6,7 +6,7 @@
 ## Achievements
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=elitesuper&column=7" />
-</p>
+</p> -->
 
 ## Prefered Technicals
 <p align="center">
